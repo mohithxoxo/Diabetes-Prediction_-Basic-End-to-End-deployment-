@@ -8,7 +8,6 @@
   * [Learning Objective](#Learning-Objective)
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
-  * [To Do](#to-do)
   * [Installation](#installation)
   * [Run](#run)
 
